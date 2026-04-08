@@ -1,1 +1,16 @@
 .DS_Store
+
+# Each app below has its own Git repo — don't track them from the UMA parent.
+aiflix/
+clearread/
+j-feed/
+jarvis-life-os/
+lattice-outreach/
+moodwave/
+portfolio/
+research-agent/
+seethrough/
+
+# Superseded local-only folders (no remote, safe to keep or delete)
+J/
+projects/
